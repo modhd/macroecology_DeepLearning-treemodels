@@ -4,3 +4,5 @@ data <- read.csv("data/EUForestspecies.csv")
 
 species <- as.data.frame(table(data$SPECIES.NAME))
 head(species[order(species$Freq, decreasing = T), ], 5)
+
+jhggj
