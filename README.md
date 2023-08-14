@@ -1,5 +1,5 @@
 # Species Distribution Model for five European tree species
-A simple Deep-Learning-based Species Distribution Model (SDM) applying a **...** algorithm. Point occurences of five European tree species are linked to satellite imagery.
+A simple Deep-Learning-based Species Distribution Model (SDM) applying a **...** algorithm in the _PyTorch_ environment. Point occurences of five European tree species are linked to satellite imagery.
 
 # Datasets
 **Point occurences:** \
