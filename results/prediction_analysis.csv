@@ -1,0 +1,13 @@
+"","spec","set","acc"
+"1","betpub","train",0.7245
+"2","picabi","train",0.2175
+"3","fagsyl","train",0.307
+"4","querob","train",0.6915
+"5","pinsyl","train",0.504
+"6","all","train",0.4889
+"7","betpub","test",0.552
+"8","picabi","test",0.118
+"9","fagsyl","test",0.254
+"10","querob","test",0.636
+"11","pinsyl","test",0.43
+"12","all","test",0.398
